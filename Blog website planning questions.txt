@@ -1,0 +1,19 @@
+What is my site's primary purpose?
+- The purpose is to tell the world about me and my background and experiences
+
+Who is my audience? (is it kids, adults, academics)?
+- Mainly my fellow students and Dev Academy facilitators
+
+How will I build my site to support their user experience?
+- I will build my site to be responsive to all nature of devices, it will be simple and logically 
+laid out with a few pictures to enhance the experience
+
+Wireframe - can I draw my site layout on paper? Draw it!
+
+What other directories do I need (e.g images)? Where do I put that directory?
+I will need an images directory definatly. I will also require a directory which will contain my blog files.
+
+Do I want the style to be applied to your blog entries also?
+
+This will depend on whether the txt is directly input into the HTML, or if the HTML referneces and external file for the
+blog files. In the first case yes, in the second case prehaps not.
