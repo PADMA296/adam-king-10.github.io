@@ -1,3 +1,8 @@
+
+#values-strengths-dev {
+  width: 100%;
+}
+
 figcaption {
     color: rgb(0, 0, 0);
     padding: 2px;
@@ -98,6 +103,24 @@ hr{
     height: 8px;
     border-radius: 10px;
     border-color: #3a4660;
+}
+
+.blogheaderhr{
+  background-color: #000000;
+  display: block;
+  width: 90%;
+  height: 4px;
+  border-radius: 10px;
+  border-color: #000000;
+}
+
+.blogcontenthr{
+  background-color: #000000;
+  display: block;
+  width: 70%;
+  height: 2px;
+  border-radius: 10px;
+  border-color: #000000;
 }
 
 .navbar {
