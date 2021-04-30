@@ -1,3 +1,7 @@
+.nav-li, .footer-ul {
+  display: inline-block;
+  list-style-type: none;
+}
 
 .blogs {
   text-decoration: none;
@@ -138,10 +142,6 @@ ul {
     width: auto;
     text-align: center;
     position: relative;
-    display: inline-block;
-}
-
-li {
     display: inline-block;
 }
 
