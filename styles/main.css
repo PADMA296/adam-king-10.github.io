@@ -1,11 +1,13 @@
 .seventypercent {
   width: 70%;
   height: auto;
+  border-radius: 10px;
 }
 
 .fourtypercent {
    width: 40%;
    height: auto;
+   border-radius: 10px;
 }
 
 .italic {
