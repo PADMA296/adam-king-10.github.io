@@ -8,10 +8,10 @@ How will I build my site to support their user experience?
 - I will build my site to be responsive to all nature of devices, it will be simple and logically 
 laid out with a few pictures to enhance the experience
 
-Wireframe - can I draw my site layout on paper? Draw it!
+Wireframe - can I draw my site layout on paper? Draw it!!!!!!!!!!!!!!!!
 
 What other directories do I need (e.g images)? Where do I put that directory?
-I will need an images directory definatly. I will also require a directory which will contain my blog files.
+I will need an images directory definatly. I will also require a directory which will contain my blog files.  
 
 Do I want the style to be applied to your blog entries also?
 
